@@ -50,6 +50,6 @@ public class Main {
     System.out.print("\nNUMBER 14\n for 4930: ");
     num_14(4930);
     System.out.print("\nNUMBER 15\n for 67032: ");
-    num_15(123450);
+    num_15(67032);
     }
 }
